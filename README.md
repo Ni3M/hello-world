@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+hi humans
+i am here to study selenium framework and doing some parctice
+on selenium
+i am from pune
